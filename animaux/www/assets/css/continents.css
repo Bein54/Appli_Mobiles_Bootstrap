@@ -1,0 +1,20 @@
+.bandeau{
+    width: 100%;
+    background-image: url("../img/continents/paysage_asie.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.continent{
+    color: #FFFFFF;
+    font-size : 30px;
+}
+
+.section-top-border{
+    padding-left:1%;
+}
+
+.row{
+    padding-left: 1%;
+}
