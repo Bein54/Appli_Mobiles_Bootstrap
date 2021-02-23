@@ -1,6 +1,48 @@
-.bandeau{
+.bandeau_asie{
     width: 100%;
     background-image: url("../img/continents/paysage_asie.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.bandeau_afrique{
+    width: 100%;
+    background-image: url("../img/continents/paysage_afrique.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.bandeau_amerique_nord{
+    width: 100%;
+    background-image: url("../img/continents/paysage_amerique_nord.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.bandeau_amerique_sud{
+    width: 100%;
+    background-image: url("../img/continents/paysage_amerique_sud.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.bandeau_antarctique{
+    width: 100%;
+    background-image: url("../img/continents/paysage_antarctique.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.bandeau_europe{
+    width: 100%;
+    background-image: url("../img/continents/paysage_europe.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.bandeau_oceanie{
+    width: 100%;
+    background-image: url("../img/continents/paysage_oceanie.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
