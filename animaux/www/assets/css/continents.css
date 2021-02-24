@@ -10,7 +10,7 @@
     background-image: url("../img/continents/paysage_afrique.jpg");
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: center;
+    background-position: bottom;
 }
 .bandeau_amerique_nord{
     width: 100%;
