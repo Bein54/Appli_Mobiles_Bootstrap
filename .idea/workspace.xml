@@ -19,7 +19,14 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e7cdf0f7-ba33-43b4-8ac8-72fe70945997" name="Default Changelist" comment="ajout pages amerique nord afrique et antarctique" />
+    <list default="true" id="e7cdf0f7-ba33-43b4-8ac8-72fe70945997" name="Default Changelist" comment="ajout image bison">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/animaux/www/assets/img/animaux/bison_amerique.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/animaux/www/assets/img/animaux/bison_amerique.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/animaux/www/assets/img/animaux/fennec.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/animaux/www/assets/img/animaux/fennec.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/animaux/www/assets/img/animaux/monarque.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/animaux/www/assets/img/animaux/monarque.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/animaux/www/assets/img/animaux/phoque_de_weddell.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/animaux/www/assets/img/animaux/phoque_de_weddell.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/animaux/www/assets/img/animaux/python.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/animaux/www/assets/img/animaux/python.jpg" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,7 +75,7 @@
       <workItem from="1614176956715" duration="4291000" />
       <workItem from="1614453324854" duration="173000" />
       <workItem from="1614457347317" duration="599000" />
-      <workItem from="1614528077175" duration="3445000" />
+      <workItem from="1614528077175" duration="4174000" />
     </task>
     <task id="LOCAL-00001" summary="modifs index.html">
       <created>1613127685042</created>
@@ -112,7 +119,21 @@
       <option name="project" value="LOCAL" />
       <updated>1614531775861</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="ajout images">
+      <created>1614532004291</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1614532004291</updated>
+    </task>
+    <task id="LOCAL-00008" summary="ajout image bison">
+      <created>1614532227195</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1614532227195</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -134,16 +155,18 @@
     <MESSAGE value="modifs index.html" />
     <MESSAGE value="modifications continents" />
     <MESSAGE value="ajout pages amerique nord afrique et antarctique" />
-    <option name="LAST_COMMIT_MESSAGE" value="ajout pages amerique nord afrique et antarctique" />
+    <MESSAGE value="ajout images" />
+    <MESSAGE value="ajout image bison" />
+    <option name="LAST_COMMIT_MESSAGE" value="ajout image bison" />
   </component>
   <component name="WindowStateProjectService">
     <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1614453340542">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1614453340542" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1614180600688">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1614532515363">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1614180600688" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1614532515363" />
   </component>
 </project>
